@@ -1,6 +1,6 @@
 # aueb
 Downloadables:
-All files from cnrpark.it
+All files from http://cnrpark.it/
 
 Convert the parking coordinates to the resized versions by dividing with 2,592
 Download the MaskR-CNN-Model 
